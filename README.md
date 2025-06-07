@@ -2,6 +2,7 @@
 
 
 💫 About Me:
+
 I'm Bhavika, a passionate developer who loves to explore new technologies and create innovative solutions. I believe in the power of code to bring ideas to life!
 
 
